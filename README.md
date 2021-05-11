@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shedi912
+- 👀 I’m interested in Python, Dart, Flutter, PHP, Laravel, Wordpress, JavaScript, jQuery, CSS, HTML
+- 🌱 I’m currently learning Flutter with Dart
+- 💞️ I’m looking to collaborate on Web apps
+- 📫 How to reach me ... shedi912@gmail.com
