@@ -1,1 +1,0 @@
-This file was created after creating a branch called firstbranch which is now my current branch.
